@@ -4,6 +4,7 @@ Collections are not processed manually.
 
 ## keywords
 
+```
 adm_nontoc
 adm_o365
 adm_o365_setup
@@ -185,3 +186,4 @@ viva-insights-personal
 windows
 windows security technologies\bitlocker
 windows11
+```

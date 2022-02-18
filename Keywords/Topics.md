@@ -2,6 +2,7 @@
 
 ## Keywords
 
+```
 archived
 article
 banner
@@ -47,3 +48,4 @@ topic
 troubleshooting
 tutorial
 ui-reference
+```
